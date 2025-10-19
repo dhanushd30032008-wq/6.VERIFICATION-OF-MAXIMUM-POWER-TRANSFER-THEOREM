@@ -34,6 +34,8 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 Resistance (RL) in ohm
 
 **TABULATION:**
+
+![image tb6](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/f1c747bcf7c03b17962a2cde8347257627986061/ex_6.tb%5B1%5D.pdf)
  
 
 

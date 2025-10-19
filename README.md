@@ -28,21 +28,6 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 ![image cd6](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/050a12035908fc2ee273ccccf6236d4a7b719c35/ex_6.cd%5B1%5D.pdf)
 
-
-**MODEL GRAPH:**
-
-![image modgraph](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/9e8e5153a6b037d35b2c53313045fe84b470dfb4/ex_6.graph%5B1%5D.pdf)
-
-Resistance (RL) in ohm
-
-**TABULATION:**
-
-![image tb6](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/f1c747bcf7c03b17962a2cde8347257627986061/ex_6.tb%5B1%5D.pdf)
- 
-
-
-**MODEL CALCULATION:**
-
 **PROCEDURE:**
 
 1.	Make connection as per the circuit diagram.
@@ -52,6 +37,22 @@ Resistance (RL) in ohm
 3.	Plot a graph between RL and PL and find the RL corresponding to maximum power transfer.
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
+   
+**MODEL GRAPH:**
+
+![image modgraph](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/9e8e5153a6b037d35b2c53313045fe84b470dfb4/ex_6.graph%5B1%5D.pdf)
+
+Resistance (RL) in ohm
+
+
+**TABULATION:**
+
+![image tb6](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/f1c747bcf7c03b17962a2cde8347257627986061/ex_6.tb%5B1%5D.pdf)
+
+**MARK SPLIT UP:**
+
+![image msu6](https://github.com/dhanushd30032008-wq/6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM/blob/6e93795a4f5013ebaf1e06a36329f33e4b47a45c/ex_6.msu%5B1%5D.pdf)
+
 
 **RESULT:**
 
